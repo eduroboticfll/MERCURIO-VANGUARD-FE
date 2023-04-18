@@ -1,7 +1,31 @@
+FOTO
+
+Equipo : VANGUARD
+
+Pais : España 
+
+Nombre 1 : Alvaro Marcos Cascallana
+
+Nombre 2 : Liam Alberdi Camarasa
+
+Nombre 3 : Jagoba Lejarza Zarandona
+
+Entrenador : Sergio Martin Urkijo
+
+
+
 Engineering materials
 ====
-
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+- Coche Impreso en 3D
+- Tornillos adaptados al coche
+- Rasp berry PI4
+- Camara Rasp Berry 
+- Motor de dron 
+- 1 Bateria 
+- Controlador del motor 
+- Servo motor 
+- Gomas para la suspension 
+-  
 
 ## Content
 
@@ -15,7 +39,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+Somos un equipo de EDUROBOTIC formado por tres integrantes del colegio Santa Maria, Alvaro, Liam y Jagoba. Hemos querido apuntarnos a esta modalida ya que nos fascino desde el primer momento la idea de programar un coche que condujese solo, esta fue la principal motivacion para apuntarnos. 
 
 ## How to prepare the repo based on the template
 
