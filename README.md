@@ -18,10 +18,10 @@ Engineering materials
 ====
 - Coche Impreso en 3D
 - Tornillos adaptados al coche
-- Rasp berry PI4
-- Camara Rasp Berry 
-- Motor de dron 
-- 1 Bateria 
+- Raspberry PI4
+- Camara Raspberry 
+- Motor brushless y ESC 
+- 1 Bateria LiPo 3S
 - Controlador del motor 
 - Servo motor 
 - Gomas para la suspension 
@@ -40,11 +40,3 @@ Engineering materials
 ## Introduction
 
 Somos un equipo de EDUROBOTIC formado por tres integrantes del colegio Santa Maria, Alvaro, Liam y Jagoba. Hemos querido apuntarnos a esta modalida ya que nos fascino desde el primer momento la idea de programar un coche que condujese solo, esta fue la principal motivacion para apuntarnos. 
-
-## How to prepare the repo based on the template
-
-_Remove this section before the first commit to the repository_
-
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
