@@ -16,7 +16,7 @@ Entrenador : Sergio Martin Urkijo
 
 
 
-Engineering materials
+## Engineering materials
 ====
 - Coche Impreso en 3D
 - Tornillos adaptados al coche
@@ -37,8 +37,8 @@ Somos un equipo de EDUROBOTIC formado por tres integrantes del colegio Santa Mar
 
 ## Desarrollo
 
-# Gestión del movimiento
+### Gestión del movimiento
 
-# Gestión de alimentación y sensores
+### Gestión de alimentación y sensores
 
-# Gestión de obstáculos
+### Gestión de obstáculos
