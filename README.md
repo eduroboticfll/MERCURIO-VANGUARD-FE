@@ -1,4 +1,5 @@
-FOTO
+![image](https://github.com/eduroboticfll/MERCURIO-VANGUARD-FE/assets/82280656/cac4b78b-866f-4174-86fb-b2a1a6bfaf08 {width=800px height=600px})
+
 
 Equipo : VANGUARD
 
