@@ -23,10 +23,11 @@ Engineering materials
 - Camara Raspberry 
 - Motor brushless y ESC 
 - 1 Bateria LiPo 3S
-- Controlador del motor 
-- Servo motor 
+- Micro L293D para controlar motor. 
+- Servo motor para la dirección.
+- Motor DC.
 - Gomas para la suspension 
--  
+- 3 sensores HC-SR04 
 
 ## Content
 
