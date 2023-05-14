@@ -20,7 +20,7 @@ Engineering materials
 ====
 - Coche Impreso en 3D
 - Tornillos adaptados al coche
-- Raspberry PI4
+- Raspberry Pi 3
 - Camara Raspberry 
 - Motor brushless y ESC 
 - 1 Bateria LiPo 3S
