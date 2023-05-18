@@ -12,7 +12,7 @@ Nombre 2 : Liam Alberdi Camarasa
 
 Nombre 3 : Jagoba Lejarza Zarandona
 
-Entrenador : Sergio Martin Urkijo
+Entrenadores : Sergio Martin y Nuncy Nikita 
 
 
 
