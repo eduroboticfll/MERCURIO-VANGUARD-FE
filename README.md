@@ -29,6 +29,8 @@ Entrenador : Sergio Martin Urkijo
 - Motor DC.
 - Gomas para la suspension 
 - 3 sensores HC-SR04 
+- Pulsador 
+- Power bank 
 
 
 ## Introducción
@@ -45,5 +47,8 @@ El motor finalmente elegido es un motor "común" típico de montajes robóticos.
 
 El motor va unido a un engranaje el cual hace mover a otro engranaje que está unido al eje trasero del coche.
 ### Gestión de alimentación y sensores
-
+Hemos utilizado 3 sensores  HC-SR04 , con ellos medimos las distacias de las paredes frontales , laterales. Tambien hemos instalado una camara frontal raspberry pi cam con la cual, esta camara saca una foto cada 0,1 segundos , al sacar la foto lo que hace es ver donde estan los pixeles de cada color. Un ejemplo: la camara cuando ve un cuadrado de pixeles verdes, lo que hace es girar hacia la izquierda , y si la camara detecta un cuadrado de pixeles rojos, gira hacia la derecha.
 ### Gestión de obstáculos
+Hemos intentando mediante una pi cam detectar los obstaculos, usando Open CV. El procedimiento seria el siguiente, La camara hace una foto, con esa foto lo que detecta son los pixeles verdes u rojos. Al detectar los pixeles verdes u rojos, lo que tiene que hacer es girar 
+hacia la izquierda o derecha dependiendo el color de cada pixel. 
+![image](https://github.com/eduroboticfll/MERCURIO-VANGUARD-FE/assets/82280656/0e49348a-5c6f-4f1b-bf51-db23faa1c6eb)
