@@ -35,7 +35,7 @@ Entrenadores : Sergio Martin y Nuncy Nikita
 
 ## Introducción
 
-Somos un equipo de EDUROBOTIC formado por tres integrantes del colegio Santa Maria, Alvaro, Liam y Jagoba. Hemos querido apuntarnos a esta modalida ya que nos fascino desde el primer momento la idea de programar un coche que condujese solo, esta fue la principal motivacion para apuntarnos. Nunca hemos hecho algo parecido a esto, lo mas cerca de haber echo algo asi a sido en la First Lego League, creando un coche para resolver pruevas (Coger, Mover, Colgar, Tirar...) Para nosotros haber creado este coche es un honor. Siempre  recordaremos ese dia " Los meses que creamos a 
+Somos un equipo de EDUROBOTIC formado por tres integrantes del colegio Santa Maria, Alvaro, Liam y Jagoba. Hemos querido apuntarnos a esta modalida ya que nos fascino desde el primer momento la idea de programar un coche que condujese solo, esta fue la principal motivacion para apuntarnos. Nunca hemos hecho algo parecido a esto, lo mas cerca de haber echo algo asi a sido en la First Lego League, creando un coche para resolver pruevas (Coger, Mover, Colgar, Tirar...) Para nosotros haber creado este coche es un honor. Siempre  recordaremos ese dia " El dia que creamos a  
 
 ## Chasis 
 
